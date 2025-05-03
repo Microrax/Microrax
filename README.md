@@ -31,5 +31,5 @@ Currently working with:
 
 ## 📫 Contact Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/tu-usuario)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-mérida-perea-0b37b6289/)
 - - 📧 Email: carlosmeridaperea@gmail.com
