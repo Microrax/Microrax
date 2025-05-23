@@ -32,4 +32,5 @@ Currently working with:
 ## 📫 Contact Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-mérida-perea-0b37b6289/)
-- - 📧 Email: carlosmeridaperea@gmail.com
+- - 📧 Email: dev.carlos@microrax.site
+- 🔗 [My Portfolio](www.microrax.site/Carlos_Merida/)
